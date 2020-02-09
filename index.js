@@ -9,6 +9,8 @@ class Student {
 
 function mostMoney(students) {
   // your code here
+  let args = { ...students };
+  console.log(args);
 }
 
 const andy = new Student("Andy", 0, 0, 2);
@@ -20,3 +22,5 @@ const cam = new Student("Cameron", 2, 2, 0);
 const geoff = new Student("Geoff", 0, 3, 0);
 
 mostMoney(andy, stephen, eric, david, phil, cam, geoff);
+
+//maybe i still don't understand classes
