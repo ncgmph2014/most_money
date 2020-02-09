@@ -27,3 +27,7 @@ If there is only one student, then that student has the most money
 ## tags
 
 ALGORITHMS, OBJECT-ORIENTED PROGRAMMING
+
+## Notes:
+
+I solved this problem!
